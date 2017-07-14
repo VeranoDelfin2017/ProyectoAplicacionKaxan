@@ -17,7 +17,7 @@
             android:layout_alignStart="@+id/textView3"
             android:layout_below="@+id/textView3"
             android:layout_marginTop="16dp"
-            android:text="Kaxan te permite encontrar a tu seres queridos en cualquier parte del mundo."
+            android:text="Kaxan te permite encontrar a tu seres queridos en cualquier parte del mundo. prueba"
             android:textSize="18sp" />
 
         <TextView
